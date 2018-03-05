@@ -1,0 +1,82 @@
+    1  changedesktopscreen
+    2  runminecraftpi
+    3  top
+    4  minecraft
+    5  locate minecraft
+    6  minecraft-pi
+    7  ls -al
+    8  ls
+    9  which minecraft-pi
+   10  cd /usr/bin/
+   11  ls -al minecraft-pi 
+   12  ./minecraft-pi 
+   13  sudo ./minecraft-pi 
+   14  nano cheat sheet.txt
+   15  pwd
+   16  ls
+   17  touch tunes.txt
+   18  ls
+   19  cd music
+   20  cd Music
+   21  cd ..
+   22  cd /
+   23  top
+   24  ls
+   25  cat cheat.save
+   26  shutdown -h now
+   27  cd~
+   28  mkdir manhattan-zoo/
+   29  git init
+   30  cd manhattan-zoo/
+   31  git init
+   32  touch meal-log.txt
+   33  git addmeal-log.txt
+   34  git add meal-log.txt
+   35  git commit -m "Meal log begins"
+   36  git config --global user.email "s.flesher@share.epsb.ca"
+   37  git config --global user.name "Sarah Flesher"
+   38  git commit -m "Meal log begins"
+   39  git commit -m "Sea lions and lemurs added"
+   40  git branch
+   41  git add meal-log.txt
+   42  git commit -m "Sea lions and lemurs added"
+   43  gitlog
+   44  git log
+   45  git add meal-log.txt
+   46  git commit -m "ACCEPT THIS"
+   47  git add meal-log.txt
+   48  git commit -m "Chinchillas added"
+   49  git log
+   50  git add meal-log.txt
+   51  git commit -m "Poison dart frogs and gorillas added"
+   52  touch commit-history.txt
+   53  meal-log.txt >> commit-history.txt
+   54  meal-log.txt | commit-history.txt
+   55  pwd
+   56  ls
+   57  meal-log.txt>commit-history.txt
+   58  git log > commit-history.txt
+   59  cat commit-history.txt
+   60  less commit-history.txt
+   61  https://github.com/CompSci10/hello-world-git-assignment-SapphireClawe.git
+   62  git clone https://github.com/CompSci10/hello-world-git-assignment-SapphireClawe.git
+   63  git add poem.txt
+   64  ls
+   65  cd hello-world-git-assignment-SapphireClawe
+   66  git add poem.txt
+   67  git commit -m "Replaced TURNIP to make poem understandable"
+   68  git branch myPoem
+   69  git branch
+   70  git checkout branch myPoem
+   71  git checkout myPoem
+   72  git add poem.txt
+   73  git commit -m "changed lion to bear because bear sounds better"
+   74  git add poem.txt
+   75  git commit -m "added name due to changes made"
+   76  git tag -a version2 -m "Improved version"
+   77  git checkout master
+   78  git merge myPoem
+   79  git add poem.txt
+   80  git commit -m "restored original due to lion being epic"
+   81  terminal history > history.txt
+   82  history > history.txt
